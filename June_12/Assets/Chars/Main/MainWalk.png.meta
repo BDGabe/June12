@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: c45003ad33925404a8e0f95eda3d5828
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MainWalk_0
+  - first:
+      213: 21300002
+    second: MainWalk_1
+  - first:
+      213: 21300004
+    second: MainWalk_2
+  - first:
+      213: 21300006
+    second: MainWalk_3
+  - first:
+      213: 21300008
+    second: MainWalk_4
+  - first:
+      213: 21300010
+    second: MainWalk_5
+  - first:
+      213: 21300012
+    second: MainWalk_6
+  - first:
+      213: 21300014
+    second: MainWalk_7
+  - first:
+      213: 21300016
+    second: MainWalk_8
+  - first:
+      213: 21300018
+    second: MainWalk_9
+  - first:
+      213: 21300020
+    second: MainWalk_10
+  - first:
+      213: 21300022
+    second: MainWalk_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainWalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainWalk_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -713, y: 62}
+      - {x: -728, y: -6}
+      - {x: -728, y: -48}
+      - {x: -718, y: -61}
+      - {x: -695, y: -61}
+      - {x: -693, y: -48}
+      - {x: -693, y: 60}
+      - {x: -695, y: 62}
+    - - {x: -592, y: 62}
+      - {x: -599, y: 38}
+      - {x: -599, y: -56}
+      - {x: -598, y: -61}
+      - {x: -565, y: -61}
+      - {x: -551, y: -36}
+      - {x: -551, y: 45}
+      - {x: -564, y: 62}
+    - - {x: -417, y: -48}
+      - {x: -417, y: 41}
+      - {x: -430, y: 62}
+      - {x: -452, y: 62}
+      - {x: -471, y: 47}
+      - {x: -479, y: 28}
+      - {x: -479, y: -61}
+      - {x: -453, y: -61}
+      - {x: -452, y: -60}
+      - {x: -453, y: -54}
+      - {x: -446, y: -61}
+      - {x: -424, y: -61}
+    - - {x: -307, y: 62}
+      - {x: -337, y: 62}
+      - {x: -355, y: 25}
+      - {x: -355, y: -7}
+      - {x: -353, y: -10}
+      - {x: -346, y: -8}
+      - {x: -340, y: 5}
+      - {x: -355, y: -54}
+      - {x: -345, y: -61}
+      - {x: -288, y: -61}
+      - {x: -284, y: -60}
+      - {x: -284, y: 25}
+      - {x: -286, y: 37}
+    - - {x: -159, y: 44}
+      - {x: -164, y: 62}
+      - {x: -217, y: 62}
+      - {x: -235, y: -20}
+      - {x: -217, y: -9}
+      - {x: -210, y: 5}
+      - {x: -210, y: -1}
+      - {x: -236, y: -40}
+      - {x: -236, y: -54}
+      - {x: -231, y: -61}
+      - {x: -180, y: -61}
+      - {x: -162, y: -58}
+      - {x: -159, y: -55}
+    - - {x: -68, y: 62}
+      - {x: -75, y: 59}
+      - {x: -98, y: -11}
+      - {x: -104, y: -39}
+      - {x: -104, y: -57}
+      - {x: -103, y: -58}
+      - {x: -95, y: -57}
+      - {x: -73, y: -61}
+      - {x: -43, y: -61}
+      - {x: -39, y: -53}
+      - {x: -39, y: 62}
+    - - {x: 42, y: 62}
+      - {x: 33, y: 34}
+      - {x: 33, y: -58}
+      - {x: 38, y: -61}
+      - {x: 73, y: -61}
+      - {x: 73, y: 62}
+    - - {x: 171, y: -61}
+      - {x: 200, y: -61}
+      - {x: 209, y: -49}
+      - {x: 209, y: 62}
+      - {x: 175, y: 62}
+      - {x: 171, y: 22}
+    - - {x: 329, y: 62}
+      - {x: 307, y: 62}
+      - {x: 290, y: 10}
+      - {x: 290, y: -7}
+      - {x: 292, y: -12}
+      - {x: 297, y: -11}
+      - {x: 302, y: -6}
+      - {x: 303, y: 4}
+      - {x: 304, y: 9}
+      - {x: 303, y: 4}
+      - {x: 303, y: -2}
+      - {x: 294, y: -29}
+      - {x: 290, y: -48}
+      - {x: 290, y: -57}
+      - {x: 297, y: -61}
+      - {x: 345, y: -61}
+      - {x: 346, y: -59}
+      - {x: 346, y: 40}
+    - - {x: 455, y: 62}
+      - {x: 440, y: 62}
+      - {x: 406, y: 10}
+      - {x: 406, y: 1}
+      - {x: 413, y: -10}
+      - {x: 420, y: -8}
+      - {x: 425, y: 1}
+      - {x: 427, y: -8}
+      - {x: 406, y: -37}
+      - {x: 406, y: -51}
+      - {x: 411, y: -61}
+      - {x: 421, y: -61}
+      - {x: 425, y: -59}
+      - {x: 424, y: -53}
+      - {x: 455, y: -61}
+      - {x: 471, y: -61}
+      - {x: 477, y: -60}
+      - {x: 480, y: -57}
+      - {x: 480, y: 23}
+      - {x: 459, y: 60}
+    - - {x: 689, y: 61}
+      - {x: 665, y: 1}
+      - {x: 665, y: -48}
+      - {x: 666, y: -48}
+      - {x: 683, y: -61}
+      - {x: 714, y: -61}
+      - {x: 718, y: -59}
+      - {x: 718, y: 61}
+    - - {x: 582, y: 61}
+      - {x: 570, y: 61}
+      - {x: 566, y: 57}
+      - {x: 540, y: -2}
+      - {x: 545, y: -21}
+      - {x: 552, y: -14}
+      - {x: 530, y: -32}
+      - {x: 530, y: -60}
+      - {x: 601, y: -60}
+      - {x: 601, y: 22}
+      - {x: 587, y: 60}
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
